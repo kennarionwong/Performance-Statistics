@@ -1,0 +1,6 @@
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.DomainModel\bin\Debug\PerformanceStatistics.DomainModel.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.DomainModel\bin\Debug\PerformanceStatistics.DomainModel.pdb
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.DomainModel\obj\Debug\PerformanceStatistics.DomainModel.csproj.AssemblyReference.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.DomainModel\obj\Debug\PerformanceStatistics.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.DomainModel\obj\Debug\PerformanceStatistics.DomainModel.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.DomainModel\obj\Debug\PerformanceStatistics.DomainModel.pdb

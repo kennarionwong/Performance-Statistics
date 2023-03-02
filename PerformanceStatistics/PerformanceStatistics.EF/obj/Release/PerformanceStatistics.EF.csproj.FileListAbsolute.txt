@@ -1,0 +1,17 @@
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\PerformanceStatistics.EF.dll.config
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\PerformanceStatistics.EF.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\PerformanceStatistics.EF.pdb
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\EntityFramework.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\PerformanceStatistics.DomainModel.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\PerformanceStatistics.DomainModel.pdb
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\EntityFramework.xml
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.csproj.AssemblyReference.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.Migrations.InitialMigration.resources
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.Migrations.AddMessageColumn.resources
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.csproj.GenerateResource.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.csproj.CoreCompileInputs.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.csproj.CopyComplete
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Release\PerformanceStatistics.EF.pdb

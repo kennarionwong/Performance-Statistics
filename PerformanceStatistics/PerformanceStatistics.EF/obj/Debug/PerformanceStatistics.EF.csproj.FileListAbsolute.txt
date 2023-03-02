@@ -1,0 +1,17 @@
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\PerformanceStatistics.EF.dll.config
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\PerformanceStatistics.EF.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\PerformanceStatistics.EF.pdb
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\EntityFramework.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\EntityFramework.xml
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.csproj.AssemblyReference.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.csproj.CoreCompileInputs.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.csproj.CopyComplete
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.pdb
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\PerformanceStatistics.DomainModel.dll
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\bin\Debug\PerformanceStatistics.DomainModel.pdb
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.Migrations.InitialMigration.resources
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.csproj.GenerateResource.cache
+C:\Users\kawong\source\repos\PerformanceStatistics\PerformanceStatistics.EF\obj\Debug\PerformanceStatistics.EF.Migrations.AddMessageColumn.resources
